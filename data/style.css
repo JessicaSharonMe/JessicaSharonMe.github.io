@@ -30,3 +30,4 @@ h1{
   font-size:72px;
   letter-spacing:-2px;
 }
+a, a:hover, a:active, a:visited { color: white; }
