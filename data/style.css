@@ -19,6 +19,7 @@ body
   width: 100%;
   height: 100vh;
 }
+.container a,.container a:hover,.container a:active,.container a:visited { color: white; }
 .name-and-stuff{
   position:relative;
   z-index:1;
@@ -30,4 +31,3 @@ h1{
   font-size:72px;
   letter-spacing:-2px;
 }
-a, a:hover, a:active, a:visited { color: white; }
